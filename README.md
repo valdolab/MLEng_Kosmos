@@ -9,8 +9,13 @@ Requisitos:
 ## Prerequisites
 List any prerequisites or dependencies that need to be installed before running the app.
 
-- Python 3.x
-- Virtual Environment (optional but recommended)
+```bash
+git clone https://github.com/valdolab/MLEng_Kosmos.git
+
+Install the required dependencies:
+```bash
+pip install -r requirements.txt
+
 
 ## Installation
 
