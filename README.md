@@ -32,3 +32,7 @@ python app.py
 python test_api.py
 ```
 ## Examples
+
+![alt text](https://github.com/valdolab/MLEng_Kosmos/results.png)
+
+
