@@ -6,16 +6,20 @@ Requisitos:
 2. Usa la biblioteca Spacy para el reconocimiento de entidades nombradas (NER), (asegúrate de usar el modelo 'es_core_news_sm' para español.)
 3. La API debe aceptar una petición POST que contenga un JSON con una lista de oraciones en español.
 
-## Prerequisites and Installation
-List any prerequisites or dependencies that need to be installed before running the app.
-
 ```bash
 git clone https://github.com/valdolab/MLEng_Kosmos.git
 ```
 
+## Prerequisites and Installation
+List any prerequisites or dependencies that need to be installed before running the app.
+
 Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+```
+Download the spacy model running the .sh file
+```bash
+download_spacy_model.sh
 ```
 
 ## Usage
