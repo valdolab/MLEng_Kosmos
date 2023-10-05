@@ -7,7 +7,6 @@ Requisitos:
 3. La API debe aceptar una petición POST que contenga un JSON con una lista de oraciones en español.
 
 ## Prerequisites
-
 List any prerequisites or dependencies that need to be installed before running the app.
 
 - Python 3.x
