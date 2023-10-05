@@ -22,16 +22,16 @@ Download the spacy model running the .sh file
 download_spacy_model.sh
 ```
 
-## Usage
+## Usage and Run the API
 ```bash
 python app.py
 ```
 
-## Test the Flask API
+## Test the API requesting some examples 
 ```bash
 python test_api.py
 ```
-## Examples
+## Results
 
 ![alt text](https://github.com/valdolab/MLEng_Kosmos/blob/main/results.png)
 
