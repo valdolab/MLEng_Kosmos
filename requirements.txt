@@ -1,4 +1,5 @@
 spacy==3.0.6
 Flask==2.2.2
 Werkzeug==2.2.3
-requests>=2.26
+requests==2.26
+python-dateutil==2.8.2
