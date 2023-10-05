@@ -33,6 +33,6 @@ python test_api.py
 ```
 ## Examples
 
-![alt text](https://github.com/valdolab/MLEng_Kosmos/results.png)
+![alt text](https://github.com/valdolab/MLEng_Kosmos/blob/main/results.png)
 
 
